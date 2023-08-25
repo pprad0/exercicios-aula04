@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\bin\Debug\net7.0\Lista02_While.exe
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\bin\Debug\net7.0\Lista02_While.deps.json
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\bin\Debug\net7.0\Lista02_While.runtimeconfig.json
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\bin\Debug\net7.0\Lista02_While.dll
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\bin\Debug\net7.0\Lista02_While.pdb
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\obj\Debug\net7.0\Lista02_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\obj\Debug\net7.0\Lista02_While.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\obj\Debug\net7.0\Lista02_While.AssemblyInfo.cs
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\obj\Debug\net7.0\Lista02_While.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\obj\Debug\net7.0\Lista02_While.dll
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\obj\Debug\net7.0\refint\Lista02_While.dll
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\obj\Debug\net7.0\Lista02_While.pdb
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\obj\Debug\net7.0\Lista02_While.genruntimeconfig.cache
+C:\Users\user\Desktop\csharp\Aula 04\Lista02_While\obj\Debug\net7.0\ref\Lista02_While.dll

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\bin\Debug\net7.0\Lista03_DoWhile.exe
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\bin\Debug\net7.0\Lista03_DoWhile.deps.json
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\bin\Debug\net7.0\Lista03_DoWhile.runtimeconfig.json
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\bin\Debug\net7.0\Lista03_DoWhile.dll
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\bin\Debug\net7.0\Lista03_DoWhile.pdb
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\obj\Debug\net7.0\Lista03_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\obj\Debug\net7.0\Lista03_DoWhile.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\obj\Debug\net7.0\Lista03_DoWhile.AssemblyInfo.cs
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\obj\Debug\net7.0\Lista03_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\obj\Debug\net7.0\Lista03_DoWhile.dll
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\obj\Debug\net7.0\refint\Lista03_DoWhile.dll
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\obj\Debug\net7.0\Lista03_DoWhile.pdb
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\obj\Debug\net7.0\Lista03_DoWhile.genruntimeconfig.cache
+C:\Users\user\Desktop\csharp\Aula 04\Lista03_DoWhile\obj\Debug\net7.0\ref\Lista03_DoWhile.dll
